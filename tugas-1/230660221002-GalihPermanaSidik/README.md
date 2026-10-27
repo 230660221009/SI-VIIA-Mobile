@@ -5,7 +5,7 @@
 | **Nama** | Galih Permana Sidik |
 | **NIM** | 230660221002 |
 | **Kelas** | SI-VIIA |
-| **Domain** | Pengaduan Fasilitas — SiLapor Kampus |
+| **Domain** | pengaduan fasilitas — SiLapor Kampus |
 
 ---
 
