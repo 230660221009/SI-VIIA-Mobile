@@ -55,4 +55,4 @@ Catatan lingkup: baris 1â€“6 dikerjakan pada aplikasi mobile, sedangkan baris 7â
 ""Toolchain Android dan Visual Studio Desktop tidak diperbaiki karena laptop (HP 2015, HDD) tidak memadai untuk instalasi Android Studio, dan Tugas 1 ini hanya menyasar target web (Chrome) yang sudah berjalan normal.""
 ## 5. Refleksi
 
-Fitur perangkat yang paling relevan untuk Glazent.pro adalah kamera. Teknisi bekerja langsung di lokasi pelanggan sehingga dapat memotret kondisi kaca sebelum dan sesudah pengerjaan pada saat itu juga. Foto tersebut menjadi bukti hasil kerja sekaligus dasar klaim garansi nanocoating yang saat ini belum tercatat sama sekali.
+Fitur perangkat yang paling relevan untuk Glazent.pro adalah kamera. Teknisi bekerja langsung di lokasi pelanggan, sehingga dapat memotret kondisi kaca sebelum dan sesudah pengerjaan pada saat itu juga. Foto tersebut menjadi bukti hasil kerja sekaligus dasar klaim garansi nanocoating yang saat ini belum tercatat sama sekali.
