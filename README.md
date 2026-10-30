@@ -22,34 +22,11 @@
       <sub>230660221021</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/elanggayudistira230660221109">
-        <img src="https://avatars.githubusercontent.com/u/203065681?v=4&s=200" width="100px;" alt="elanggayudistira230660221109"/><br>
-        <sub><b>ELANGGA YUDISTIRA</b></sub>
-      </a><br>
-      <sub>230660221109</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MuhammadAuliaRamadhani230660221013">
-        <img src="https://avatars.githubusercontent.com/u/203065683?v=4&s=200" width="100px;" alt="MuhammadAuliaRamadhani230660221013"/><br>
-        <sub><b>MuhammadAuliaRamadhani230660221013</b></sub>
-      </a><br>
-      <sub>230660221013</sub>
-    </td>
-    <td align="center">
       <a href="https://github.com/230660221002">
         <img src="https://avatars.githubusercontent.com/u/203043392?v=4&s=200" width="100px;" alt="230660221002"/><br>
         <sub><b>Galih Permana Sidik</b></sub>
       </a><br>
       <sub>230660221002</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ameliaoktaviani">
-        <img src="https://avatars.githubusercontent.com/u/203069235?v=4&s=200" width="100px;" alt="ameliaoktaviani"/><br>
-        <sub><b>ameliaoktaviani</b></sub>
-      </a><br>
-      <sub>230660221127</sub>
     </td>
   </tr>
   <tr>
@@ -61,11 +38,27 @@
       <sub>230660221093</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/230660221009">
-        <img src="https://avatars.githubusercontent.com/u/203071958?v=4&s=200" width="100px;" alt="230660221009"/><br>
-        <sub><b>ADE YUSUP MAULANA</b></sub>
+      <a href="https://github.com/elanggayudistira230660221109">
+        <img src="https://avatars.githubusercontent.com/u/203065681?v=4&s=200" width="100px;" alt="elanggayudistira230660221109"/><br>
+        <sub><b>ELANGGA YUDISTIRA</b></sub>
       </a><br>
-      <sub>230660221009</sub>
+      <sub>230660221109</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MuhammadAuliaRamadhani230660221013">
+        <img src="https://avatars.githubusercontent.com/u/203065683?v=4&s=200" width="100px;" alt="MuhammadAuliaRamadhani230660221013"/><br>
+        <sub><b>MuhammadAuliaRamadhani230660221013</b></sub>
+      </a><br>
+      <sub>230660221013</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ameliaoktaviani">
+        <img src="https://avatars.githubusercontent.com/u/203069235?v=4&s=200" width="100px;" alt="ameliaoktaviani"/><br>
+        <sub><b>ameliaoktaviani</b></sub>
+      </a><br>
+      <sub>230660221127</sub>
     </td>
     <td align="center">
       <a href="https://github.com/nisa230660221023">
@@ -73,6 +66,13 @@
         <sub><b>nisa230660221023</b></sub>
       </a><br>
       <sub>230660221023</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/230660221009">
+        <img src="https://avatars.githubusercontent.com/u/203071958?v=4&s=200" width="100px;" alt="230660221009"/><br>
+        <sub><b>ADE YUSUP MAULANA</b></sub>
+      </a><br>
+      <sub>230660221009</sub>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
         <img src="https://avatars.githubusercontent.com/u/203070532?v=4&s=200" width="100px;" alt="lalajalaliah"/><br>
         <sub><b>lalajalaliah</b></sub>
       </a><br>
-      <sub>230660221017</sub>
+      <sub>230660221009</sub>
     </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@
         <img src="https://avatars.githubusercontent.com/u/28897?v=4&s=200" width="100px;" alt="ferry"/><br>
         <sub><b>ferry</b></sub>
       </a><br>
-      <sub>230660221017</sub>
+      <sub>230660221009</sub>
     </td>
   </tr>
 </table>
